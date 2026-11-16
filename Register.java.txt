@@ -1,0 +1,5 @@
+public class register{
+ public static void main(String arg []) {
+   System.out.println("player registerd successfully");
+}
+}
